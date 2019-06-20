@@ -1,0 +1,65 @@
+TheHindhu:
+Classified as Positive Words:53
+	many,new,live,team,play,yea,family,moved,friendly,time,
+	religion,lucky,high,help,safe,air,security,win,leader,values,
+	health,connection,clear,add,responsibility,heart,new,love,like,presence,
+	community,heartfelt,friend,team,extraordinary,appeal,active,working,giving,user,
+	experience,please,keep,save,fine,strength,blood,capability,risk,.
+
+
+
+Classified as Negative Words:40
+	killed,injure,two,massacre,one,set,difficult,condemnation,terrorism,hatred,
+	attacks,attack,shocked,deadly,death,toll,extremist,violent,attack,uncivilized,
+	critical,condemns,racism,deplorable,lost,dead,threat,low,appalled,outraged,
+	shocking,mad,tragic,offender,second,frightening,shake,.
+
+
+
+Classified as Neutral Words:471
+	people,shooting,mosques,christchurch,zealand,friday,gunmen,streamed,social,media,
+	police,rushed,areathe,bangladesh,cricket,scheduled,third,final,test,saturday,
+	escape,pray,masjid,noor,mosque,situated,near,stadiumnew,prime,minister,
+	ardern,called,darkest,days,countryhere,updates,person,hyderabad,another,roots,
+	reported,missing,identified,ahmed,iqbal,jahangir,old,restauranteur,farhaj,ahsan,
+	said,around,years,ago,restaurant,letter,addressed,narendra,modi,expressed,
+	condolences,underscored,indias,solidarity,stressed,strong,forms,manifestations,acts,violence,
+	diverse,democratic,societies,pakistan,imran,khan,increasing,islamophobia,responsible,strongly,
+	tweeted,reaffirms,always,maintained,prayers,victims,familieswe,really,reached,even,
+	four,minutes,earlier,probably,would,inside,manager,khaled,mashud,narrowly,
+	deadliest,zealands,historythe,starting,way,happened,tour,offindias,commission,indian,
+	affected,contact,mission,assistance,numbers,providing,assistancewe,hear,indians,needing,
+	spread,word,stay,twitter,account,reads,carrier,cancels,least,flights,
+	couldnt,screen,customers,baggage,following,shootingsthe,airline,says,smaller,planes,
+	regional,routes,cancelled,larger,jet,continue,landing,taking,due,screening,
+	already,placepolice,say,gone,gunman,australia,born,australian,scott,morrison,
+	describing,right,terrorist,malaysian,anwar,ibrahim,wounded,deeply,saddened,act,
+	humanistic,took,civilians,statementafghanistans,ambassador,fiji,wahidullah,waissi,afghans,thoughts,
+	origin,whove,shot,incidentsome,including,children,treated,hospital,shootingswounds,range,
+	authorities,sayturkish,president,recep,tayyip,erdogan,calls,latest,example,rising,
+	english,turkish,behalf,country,offer,islamic,world,targeted,actindonesias,foreign,
+	marsudi,six,indonesians,occurred,escaped,looking,indonesian,citizensthe,embassy,wellington,
+	coordinating,officialsthe,ministry,citizens,studentsit,government,indonesia,convey,deep,familiesnew,
+	shootingsaddressing,conference,mosqueshe,confirms,woman,detained,watch,lists,described,asserts,
+	lifted,highaustralian,taken,custody,shootings,australianaustralians,sayswhistleblower,website,wikileaks,released,
+	claiming,manifesto,claimed,shooter,white,came,plan,train,coming,sending,
+	families,pictwittercom,pxwcb,sonny,bill,williams,sonnybwilliams,march,pxwcbthe,lock,
+	throughout,reassure,members,public,large,city,priority,tweetpolice,men,attackstest,
+	situation,joint,decision,nzc,bcbtigers,cancel,hagley,oval,staff,groups,
+	safely,back,hotel,incident,citythe,board,constant,players,managementchristchurchmosqueattack,ttpifxlp,
+	plunged,dayswhat,unprecedented,migrant,communities,home,tweets,ardernthe,committed,indoorspolice,
+	responding,serious,involving,central,however,believe,may,evolving,confirm,facts,
+	tweetedpolice,also,number,fatalities,without,specific,ask,nationally,shut,doors,
+	refrain,visiting,premises,noticepolice,hunting,shooterlocal,channels,show,footage,facebook,
+	believed,shooters,accountfacebook,youtube,delete,videos,block,accounts,streamedhowever,posting,
+	video,streamnew,details,immediately,availableentire,got,player,tamim,entire,christchurchmosqueattack,
+	park,ran,vtkqsrljjv,mohammad,isam,alhamdulillah,allah,today,mosquewe,extremely,
+	want,see,things,happen,againpray,mushfiqur,rahim,usthe,spoke,shortly,
+	villavarayen,conditioning,coach,tells,herald,ambulance,take,man,outside,witness,
+	photo,credit,local,report,multiple,casualties,evacuatedpolice,commissioner,mike,bush,
+	lockdown,response,ongoing,firearms,incidentan,eyewitness,radio,heard,shots,fired,
+	ground,everywherethere,official,information,killedshots,urge,nearby,indoorsa,occurring,statementpolice,
+	manage,environment,remains,addswith,inputs,afp,reuters,hindu,correspondents,.
+
+
+

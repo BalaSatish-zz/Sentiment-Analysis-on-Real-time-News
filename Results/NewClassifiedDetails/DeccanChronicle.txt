@@ -1,0 +1,33 @@
+DeccanChronicle:
+Classified as Positive Words:25
+	yea,working,freedom,pure,idea,friend,time,excited,acclaimed,glad,
+	happy,hope,wonderful,absolute,experience,fame,leading,celebrate,hero,action,
+	pleasure,give,non,.
+
+
+
+Classified as Negative Words:9
+	two,fiction,set,pan,intense,cold,one,second,over,.
+
+
+
+Classified as Neutral Words:165
+	mumbai,official,announcement,rajamoulis,upcoming,massive,multistarrer,casting,ntr,ram,
+	titled,rrr,announced,film,title,titlebollywood,star,alia,bhatt,ajay,
+	joined,cast,filmmaker,venture,core,story,carved,based,profound,indian,
+	alluri,seetharamaraju,komaram,bheem,according,chronicled,stories,said,missing,years,
+	legends,fought,countryr,july,rrrpressmeet,tarak,ramcharan,aliaa,ajaydevgn,thondankani,
+	rrrmovie,pictwittercom,mksxrqnrrr,drafted,meeting,delhi,later,becoming,away,british,
+	including,culture,lifestyle,painted,large,canvasthe,line,ssrajamouli,gqrxrmqbeaalia,critically,
+	south,superstars,ntrwelcome,aboard,female,lead,birthday,advance,journey,izmbnziworking,
+	sir,big,tick,bucket,list,also,alongside,honour,first,statementthough,
+	characters,patriotic,chauvinistic,elements,befitting,tale,people,emotions,crore,budgetthe,
+	daisy,edger,jones,actress,feet,silent,witness,ladies,accompanied,devagn,
+	known,sequences,samutra,khani,playing,significant,roleswelcome,daisyedgarjones,cinema,looking,
+	shooting,lpqunmlcjirrr,marks,ajayajaydevgn,grateful,board,prominent,role,cant,waitrrrpressmeet,
+	old,superstar,earlier,voice,hindi,version,telugu,blockbuster,eega,makkhithe,
+	release,come,tamil,malayalam,languages,simultaneouslythe,common,however,different,abbreviations,
+	.
+
+
+

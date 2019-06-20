@@ -1,0 +1,39 @@
+EconomicTimes:
+Classified as Positive Words:21
+	new,new,play,freedom,rest,leading,working,live,appreciated,special,
+	enough,like,hero,well,faithful,power,true,love,achieve,many,.
+
+
+
+Classified as Negative Words:18
+	critic,set,two,one,mar,fictional,object,multi,raked,left,
+	second,slave,brutal,fleeing,ruthless,plot,kill,.
+
+
+
+Classified as Neutral Words:232
+	delhi,bollywood,actors,alia,bhatt,ajay,devgn,making,telugu,debut,
+	director,rajamoulis,next,titled,rrr,indian,film,trade,analyst,taran,
+	shared,twitter,handle,biggg,prominent,role,upcoming,story,based,legendary,
+	stars,ntr,ram,charan,rrrpressmeet,wrote,https,tco,xyviudbqmdash,lot,
+	films,female,lead,either,parineeti,chopra,putting,rumours,also,tweeted,
+	big,project,fre,ffdoomwvmdash,seen,playing,ladies,essaying,pivotal,flashback,
+	official,movie,pictures,welcoming,aboard,confirmed,title,rrrmovie,languages,rbwzsgaljmdash,
+	onto,unveil,first,look,along,sharing,release,date,newsbreak,comes,
+	july,hindi,tamil,malayalam,cnnzrdxdcmmdash,pre,independent,era,alluri,sitarama,
+	komaram,bheem,portraying,sitharama,previously,worked,rajamouli,makkhi,released,kajol,
+	narration,much,awaited,slated,multiple,including,var,totalpage,curpage,slideval,
+	multiplider,totalslide,characters,decoded,nextprevplay,slideshowthe,magnum,opus,beginning,apr,
+	blockbuster,lingual,bahubali,reportedly,crore,three,weeks,since,prabhas,rana,
+	starrer,hit,around,screens,worldwide,visual,effects,period,drama,took,
+	years,complete,however,narrative,sequel,april,rightfully,conclusionthe,mighty,essayed,
+	get,seems,makers,installment,epic,audiences,see,triple,double,shivudu,
+	father,amarendra,portray,bhubalis,grandfather,warrior,kattappa,sathyaraj,imagine,extremely,
+	bhallala,deva,although,could,acted,sivagami,using,taken,kingdom,mahishmati,
+	wordsthe,smouldering,damsel,devasena,anushka,shetty,chained,palace,twenty,five,
+	hands,rescue,successfully,rescued,chased,kings,royal,soon,realises,brave,
+	late,devasenathe,hungry,dagubatti,tyrant,sense,anybody,goals,means,possible,
+	timesnext,.
+
+
+
